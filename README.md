@@ -1,3 +1,1 @@
 # getDemo
-demo
-test
